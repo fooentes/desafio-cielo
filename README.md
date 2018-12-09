@@ -28,6 +28,6 @@ Para desenvolver o desafio proposto foi usada a biblioteca do AngularJS v1.7.5, 
 
 ---
 
-##### Demonstração
+#### Demonstração
 
 [www.andrefuentes.com.br/desafio-cielo](http://www.andrefuentes.com.br/desafio-cielo)
