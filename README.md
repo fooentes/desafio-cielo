@@ -1,10 +1,10 @@
-#### Desafio Cielo
+### Desafio Cielo
 
 Para desenvolver o desafio proposto foi usada a biblioteca do AngularJS v1.7.5, com um serviço, duas diretivas, duas visualizações e alguns controladores.
 
 ---
 
-###### O app funciona da seguinte maneira
+#### O app funciona da seguinte maneira
 
 1. O json é carregado por um serviço angular em *"app/services/lancamentos.js"*;
 
