@@ -4,6 +4,12 @@ Para desenvolver o desafio proposto foi usada a biblioteca do AngularJS v1.7.5, 
 
 ---
 
+#### Update em 28/12/2018
+
+[Novo repositório](https://github.com/fooentes/desafio-cielo-source) criado para disponibilizar o source do projeto feito em Node.js
+
+---
+
 #### O app funciona da seguinte maneira
 
 1. O json é carregado por um serviço angular em *"app/services/lancamentos.js"*;
